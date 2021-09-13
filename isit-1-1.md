@@ -13,17 +13,25 @@
 ***
 ## История
 + Аттестация №1
-  + <a href="https://raw.githubusercontent.com/CallMeYura/astronauts/master/documents/hist-1-att.
-    docx">Теоретический материал</a>
-  + [Воспоминания очевидцев]()
+  + <a href="https://github.com/CallMeYura/astronauts/raw/master/documents/hist-1-att.docx">Теоретический материал</a>
   + [Фактические варианты]()
+  + [Воспоминания очевидцев]()  
+  
 + Аттестация №2
-  + [Теоретический материал]()
-  + [Воспоминания очевидцев]()
+  + <a href="https://raw.githubusercontentcom/CallMeYura/astronauts/master/documents/hist-2-att.docx">Теоретический 
+    материал</a>
   + [Фактические варианты]()
+  + [Воспоминания очевидцев]()
+
 + Аттестация №3
-  + [Теоретический материал]()
-  + [Воспоминания очевидцев]()
+  + <a href="https://raw.githubusercontentcom/CallMeYura/astronauts/master/documents/hist-3-att.docx">Теоретический 
+    материал</a>
   + [Фактические варианты]()
+  + [Воспоминания очевидцев]()
+
++ Экзамен
+  + <a href="https://raw.githubusercontentcom/CallMeYura/astronauts/master/documents/hist-main-ex.docx">Все билеты 
+    кратко</a>
+  + <a href="https://raw.githubusercontentcom/CallMeYura/astronauts/master/documents/hist-war-communism.docx">Военный коммунизм</a>
 
 [к оглавлению](#Экзамены)
