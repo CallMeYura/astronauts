@@ -30,8 +30,7 @@
   + [Воспоминания очевидцев]()
 
 + Экзамен
-  + <a href="https://github.com/CallMeYura/astronauts/raw/master/documents/hist-main-ex.docx">Все билеты 
-    кратко</a>
-  + <a href="https://github.com/CallMeYura/astronauts/raw/master/documents/hist-war-communism.docx">Военный коммунизм</a>
+  + [Все билеты кратко](hist-exam.md)
+  + [Военный коммунизм]()
 
 [к оглавлению](#Экзамены)
