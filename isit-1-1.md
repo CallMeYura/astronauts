@@ -44,7 +44,7 @@
 ***
 ### Теоретические основы информатики
 
-![Number 9](https://imgur.com/DxGaCWM)
+![Math](https://postimg.cc/zydFKqfF)
 
 
 [к оглавлению](#Экзамены)
