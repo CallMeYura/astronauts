@@ -30,15 +30,15 @@
 ### Математический анализ
 #### Практика:
 + Аттестация №1 (практика)
-  + [Фактические варианты](../subjects/mathan/.md)
+  + [Фактические варианты](../subjects/mathan/mathan-preng/mathan-pr-att-1-fact.md)
 
 
 + Аттестация №2 (практика)
-  + [Фактические варианты](../subjects/mathan/.md)
+  + [Фактические варианты](../subjects/mathan/mathan-preng/mathan-pr-att-2-fact.md)
 
 
 + Аттестация №3 (практика)
-  + [Фактические варианты](../subjects/mathan/.md)
+  + [Фактические варианты](../subjects/mathan/mathan-preng/mathan-pr-att-3-fact.md)
 
 
 + Экзамен:
