@@ -25,15 +25,15 @@
 ### Математический анализ
 #### Практика:
 + Аттестация №1 (практика)
-  + [Фактические варианты](../subjects/mathan/mathan-pr-att-1-fact.md)
+  + [Фактические варианты](../subjects/mathan/mathan-isit/mathan-pr-att-1-fact.md)
   
 
 + Аттестация №2 (практика)
-  + [Фактические варианты](../subjects/mathan/mathan-pr-att-2-fact.md)
+  + [Фактические варианты](../subjects/mathan/mathan-isit/mathan-pr-att-2-fact.md)
  
 
 + Аттестация №3 (практика)
-  + [Фактические варианты](../subjects/mathan/mathan-pr-att-3-fact.md)
+  + [Фактические варианты](../subjects/mathan/mathan-isit/mathan-pr-att-3-fact.md)
 
 #### Теория (Сирота):
 + Аттестация №1 (теория)
@@ -41,7 +41,7 @@
   
 
 + Аттестация №2 (теория)
-  + [Фактические варианты](../subjects/mathan/mathan-th-att-2-fact.md)
+  + [Фактические варианты](../subjects/mathan/mathan-isit/mathan-th-att-2-fact.md)
 
 
 + Аттестация №3 (практика)
