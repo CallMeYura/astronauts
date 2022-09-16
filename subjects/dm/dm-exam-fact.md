@@ -1,4 +1,4 @@
-[назад](../../README.md)
+[назад](../../pi/pi-1-1.md#Дискретная-математика)
 ***
 Авторы (БДСМ – party):
 + https://www.twitch.tv/parklegaming
