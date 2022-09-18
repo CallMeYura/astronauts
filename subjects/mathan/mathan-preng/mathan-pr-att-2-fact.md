@@ -1,4 +1,4 @@
-[назад](../../../preng/preng-1-1.md#Математический-анализ)
+[назад](../../../README.md)
 ***
 ![матанализ практика вариант номер 1](../../../images/mathan/practice/att2/math-preng-pr2/pr1.jpg)
 ![матанализ практика вариант номер 2](../../../images/mathan/practice/att2/math-preng-pr2/pr2.jpg)
