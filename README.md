@@ -5,3 +5,5 @@
 + [Программная инженерия](preng/preng.md#Программная-инженерия)
 + [Прикладная информатика](pi/pi.md#Прикладная-информатика)
 + [Информационная безопасность](ib/ib.md#Информационная-безопасность)
+***
+[Методички](https://drive.google.com/drive/folders/1U4WVkXh-JffJi9KkCasMFLKMocuq4OXt?usp=sharing)
