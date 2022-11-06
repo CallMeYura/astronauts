@@ -17,9 +17,14 @@
 
 ### История
 + Аттестация №1
-    + [Теоретический материал](../subjects/hist/hist-att-1-theory.md)
-    + [Фактические варианты](../subjects/hist/hist-att-1-fact.md)
-    + [Воспоминания очевидцев](../subjects/hist/hist-att-1-memories.md)
+    + [Теоретический материал](../subjects/hist/hist-att-1/hist-att-1-theory.md)
+    + [Фактические варианты](../subjects/hist/hist-att-1/hist-att-1-fact.md)
+    + [Воспоминания очевидцев](../subjects/hist/hist-att-1/hist-att-1-memories.md)
+
+
++ Аттестация №2
+  + [Воспоминания очевидцев](../subjects/hist/hist-att-2-memories.md)
+
 
 + Экзамен
     + [Все билеты кратко](../subjects/hist/hist-exam.md)
@@ -50,7 +55,7 @@
 
 
 + Аттестация №2
-    + Нет информации, требуется дополнение раздела
+  + [Фактические варианты](../subjects/lin-alg/lin-alg-pr-att-2-fact.md)
 
 
 + Аттестация №3
@@ -67,8 +72,8 @@
     + [Фактические варианты](../subjects/dm/dm-mkn/dm-pr-att-1-fact.md)
 
 
-+ Аттестация №2 
-    + Нет информации, требуется дополнение раздела
++ Аттестация №2
+  + [Фактические варианты](../subjects/dm/dm-mkn/dm-pr-att-2-fact.md)
 
 
 + Аттестация №3 
@@ -86,8 +91,8 @@
     + [Фактические варианты](../subjects/enter-prog/enter-prog-att-1-fact.md)
 
 
-+ Аттестация №2
-    + Нет информации, требуется дополнение раздела
++ Аттестация №2-3
+  + [Фактические варианты](../subjects/enter-prog/enter-prog-att-2-3-fact.md)
 
 
 + Аттестация №3

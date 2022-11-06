@@ -18,9 +18,9 @@
 
 ### История
 + Аттестация №1
-  + [Теоретический материал](../subjects/hist/hist-att-1-theory.md)
-  + [Фактические варианты](../subjects/hist/hist-att-1-fact.md)
-  + [Воспоминания очевидцев](../subjects/hist/hist-att-1-memories.md)
+  + [Теоретический материал](../subjects/hist/hist-att-1/hist-att-1-theory.md)
+  + [Фактические варианты](../subjects/hist/hist-att-1/hist-att-1-fact.md)
+  + [Воспоминания очевидцев](../subjects/hist/hist-att-1/hist-att-1-memories.md)
 
 + Экзамен
   + [Все билеты кратко](../subjects/hist/hist-exam.md)
