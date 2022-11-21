@@ -134,7 +134,7 @@
   + Нет информации, требуется дополнение раздела
 
 
-+ Лекции по экономике: [лекции powerPoint](https://disk.yandex.ru/client/disk/ЭкОнОмИкА%20лЕкЦиИ)
++ Лекции по экономике: [лекции powerPoint](https://drive.google.com/drive/folders/1EhTxnwlJM0eSivPyDDbxhVddQrVcPUsE?usp=sharing)
 
 
 [к оглавлению](#Экзамены)
