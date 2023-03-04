@@ -1,0 +1,10 @@
+[назад](../../../README.md)
+***
+![аисд атта 1](../../../images/2-sem/aisd/att1/th1.jpg)
+![аисд атта 1](../../../images/2-sem/aisd/att1/th2.jpg)
+![аисд атта 1](../../../images/2-sem/aisd/att1/th3.jpg)
+![аисд атта 1](../../../images/2-sem/aisd/att1/th4.jpg)
+![аисд атта 1](../../../images/2-sem/aisd/att1/th5.jpg)
+![аисд атта 1](../../../images/2-sem/aisd/att1/th6.jpg)
+![аисд атта 1](../../../images/2-sem/aisd/att1/th7.jpg)
+![аисд атта 1](../../../images/2-sem/aisd/att1/th8.jpg)
