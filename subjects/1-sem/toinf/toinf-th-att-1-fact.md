@@ -1,0 +1,13 @@
+[назад](../../../README.md)
+***
+![тоинф вариант 1](../../../images/1-sem/toinf/theory/att1/th1.jpg)
+![тоинф вариант 1](../../../images/1-sem/toinf/theory/att1/th2.jpg)
+![тоинф вариант 1](../../../images/1-sem/toinf/theory/att1/th3.jpg)
+![тоинф вариант 1](../../../images/1-sem/toinf/theory/att1/th4.jpg)
+![тоинф вариант 1](../../../images/1-sem/toinf/theory/att1/th5.jpg)
+![тоинф вариант 1](../../../images/1-sem/toinf/theory/att1/th6.jpg)
+![тоинф вариант 1](../../../images/1-sem/toinf/theory/att1/th7.jpg)
+![тоинф вариант 1](../../../images/1-sem/toinf/theory/att1/th8.jpg)
+![тоинф вариант 1](../../../images/1-sem/toinf/theory/att1/th9.jpg)
+![тоинф вариант 1](../../../images/1-sem/toinf/theory/att1/th10.jpg)
+![тоинф вариант 1](../../../images/1-sem/toinf/theory/att1/th11.jpg)

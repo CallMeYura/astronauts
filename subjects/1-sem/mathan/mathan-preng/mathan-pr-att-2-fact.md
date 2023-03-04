@@ -1,0 +1,10 @@
+[назад](../../../../README.md)
+***
+![матанализ практика вариант номер 1](../../../../images/1-sem/mathan/practice/att2/math-preng-pr2/pr1.jpg)
+![матанализ практика вариант номер 2](../../../../images/1-sem/mathan/practice/att2/math-preng-pr2/pr2.jpg)
+![матанализ практика вариант номер 3](../../../../images/1-sem/mathan/practice/att2/math-preng-pr2/pr3.jpg)
+![матанализ практика вариант номер 4](../../../../images/1-sem/mathan/practice/att2/math-preng-pr2/pr4.jpg)
+![матанализ практика вариант номер 5](../../../../images/1-sem/mathan/practice/att2/math-preng-pr2/pr5.jpg)
+![матанализ практика вариант номер 6](../../../../images/1-sem/mathan/practice/att2/math-preng-pr2/pr6.jpg)
+![матанализ практика вариант номер 7](../../../../images/1-sem/mathan/practice/att2/math-preng-pr2/pr7.jpg)
+![матанализ практика вариант номер 8](../../../../images/1-sem/mathan/practice/att2/math-preng-pr2/pr8.jpg)
