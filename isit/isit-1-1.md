@@ -20,17 +20,17 @@
 ### История
 (преп. Лавлинский)
 + Аттестация №1
-  + [Теоретический материал](../subjects/hist/hist-att-1/hist-att-1-theory.md)
-  + [Фактические варианты](../subjects/hist/hist-att-1/hist-att-1-fact.md)
-  + [Воспоминания очевидцев](../subjects/hist/hist-att-1/hist-att-1-memories.md)  
+  + [Теоретический материал](../subjects/1-sem/hist/hist-att-1/hist-att-1-theory.md)
+  + [Фактические варианты](../subjects/1-sem/hist/hist-att-1/hist-att-1-fact.md)
+  + [Воспоминания очевидцев](../subjects/1-sem/hist/hist-att-1/hist-att-1-memories.md)  
 
 
 + Аттестация №2
-  + [Воспоминания очевидцев](../subjects/hist/hist-att-2-memories.md)
+  + [Воспоминания очевидцев](../subjects/1-sem/hist/hist-att-2-memories.md)
 
 
 + Экзамен
-  + [Все билеты кратко](../subjects/hist/hist-exam.md)
+  + [Все билеты кратко](../subjects/1-sem/hist/hist-exam.md)
 
 [к оглавлению](#Экзамены)
 ***
@@ -38,23 +38,23 @@
 (преп. Сирота(лекции), Чуракова(практика))
 #### Практика:
 + Аттестация №1 (практика)
-  + [Фактические варианты](../subjects/mathan/mathan-isit/mathan-pr-att-1-fact.md)
+  + [Фактические варианты](../subjects/1-sem/mathan/mathan-isit/mathan-pr-att-1-fact.md)
   
 
 + Аттестация №2 (практика)
-  + [Фактические варианты](../subjects/mathan/mathan-isit/mathan-pr-att-2-fact.md)
+  + [Фактические варианты](../subjects/1-sem/mathan/mathan-isit/mathan-pr-att-2-fact.md)
  
 
 + Аттестация №3 (практика)
-  + [Фактические варианты](../subjects/mathan/mathan-isit/mathan-pr-att-3-fact.md)
+  + [Фактические варианты](../subjects/1-sem/mathan/mathan-isit/mathan-pr-att-3-fact.md)
 
 #### Теория (Сирота):
 + Аттестация №1 (теория)
-  + [Фактические варианты](../subjects/mathan/mathan-isit/mathan-th-att-1-fact.md)
+  + [Фактические варианты](../subjects/1-sem/mathan/mathan-isit/mathan-th-att-1-fact.md)
 
 
 + Аттестация №2 (теория)
-  + [Фактические варианты](../subjects/mathan/mathan-isit/mathan-th-att-2-fact.md)
+  + [Фактические варианты](../subjects/1-sem/mathan/mathan-isit/mathan-th-att-2-fact.md)
 
 
 + Аттестация №3 (практика)
@@ -69,15 +69,15 @@
 ### Введение в программирование
 (преп. Соломатин(лекции))
 + Аттестация №1
-  + [Фактические варианты](../subjects/enter-prog/enter-prog-att-1-fact.md)
+  + [Фактические варианты](../subjects/1-sem/enter-prog/enter-prog-att-1-fact.md)
 
 
 + Аттестация №2-3
-  + [Фактические варианты](../subjects/enter-prog/enter-prog-att-2-3-fact.md)
+  + [Фактические варианты](../subjects/1-sem/enter-prog/enter-prog-att-2-3-fact.md)
 
 
 + Экзамен:
-  + [Фактические варианты](../subjects/enter-prog/enter-prog-exam.md)
+  + [Фактические варианты](../subjects/1-sem/enter-prog/enter-prog-exam.md)
   
 
 [к оглавлению](#Экзамены)
@@ -85,23 +85,23 @@
 ### Теоретические основы информатики
 (преп. Сычев(лекции))
 + Аттестация №1 (лекции)
-  + [Фактические варианты](../subjects/toinf/toinf-th-att-1-fact.md)
+  + [Фактические варианты](../subjects/1-sem/toinf/toinf-th-att-1-fact.md)
 
 
 + Аттестация №2 (лекции)
-  + [Фактические варианты](../subjects/toinf/toinf-th-att-2-fact.md)
+  + [Фактические варианты](../subjects/1-sem/toinf/toinf-th-att-2-fact.md)
 
 
 + Аттестация №2 (практика)
-  + [Фактические варианты](../subjects/toinf/toinf-pr-att-2-fact.md)
+  + [Фактические варианты](../subjects/1-sem/toinf/toinf-pr-att-2-fact.md)
 
 
 + Аттестация №3 (лекции)
-  + [Фактические варианты](../subjects/toinf/toinf-th-att-3-fact.md)
+  + [Фактические варианты](../subjects/1-sem/toinf/toinf-th-att-3-fact.md)
 
 
 + Аттестация №3 (практика)
-  + [Фактические варианты](../subjects/toinf/toinf-pr-att-3-fact.md)
+  + [Фактические варианты](../subjects/1-sem/toinf/toinf-pr-att-3-fact.md)
 
 + Экзамен:
   + Нет информации, требуется дополнение раздела
@@ -115,7 +115,7 @@
 На мудле есть методичка, по которой очень хорошо решаются задачи(открываешь и прям по каждому пункту идешь)
 
 + Зачет:
-  + [Фактические варианты](../subjects/sped/sped-zachet-fact.md)
+  + [Фактические варианты](../subjects/1-sem/sped/sped-zachet-fact.md)
 
 
 [к оглавлению](#Экзамены)
@@ -123,15 +123,15 @@
 ### Экономическая теория
 (преп. Павлова)
 + Аттестация №1
-  + [Фактические варианты](../subjects/economy/economy-att-1-fact.md)
+  + [Фактические варианты](../subjects/1-sem/economy/economy-att-1-fact.md)
 
 
 + Аттестация №2
-  + [Фактические варианты](../subjects/economy/economy-att-2-fact.md)
+  + [Фактические варианты](../subjects/1-sem/economy/economy-att-2-fact.md)
 
 
 + Аттестация №3
-  + [Фактические варианты](../subjects/economy/economy-att-3-fact.md)
+  + [Фактические варианты](../subjects/1-sem/economy/economy-att-3-fact.md)
 
 
 + Зачет:
@@ -146,18 +146,18 @@
 ### ДОиКР
 (преп. Розенфельд)
 + Аттестация №1
-  + [Фактические варианты](../subjects/russian/russian-att-1-fact.md)
+  + [Фактические варианты](../subjects/1-sem/russian/russian-att-1-fact.md)
 
 
 + Аттестация №2
-  + [Фактические варианты](../subjects/russian/russian-att-2-fact.md)
+  + [Фактические варианты](../subjects/1-sem/russian/russian-att-2-fact.md)
 
 
 + Аттестация №3
-  + [Фактические варианты](../subjects/russian/russian-att-3-fact.md)
+  + [Фактические варианты](../subjects/1-sem/russian/russian-att-3-fact.md)
 
 
 + Зачет:
-  + [Фактические варианты](../subjects/russian/russian-final-test.md)
+  + [Фактические варианты](../subjects/1-sem/russian/russian-final-test.md)
 
 [к оглавлению](#Экзамены)

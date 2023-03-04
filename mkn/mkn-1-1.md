@@ -18,31 +18,31 @@
 ### История
 (преп. Лавлинский)
 + Аттестация №1
-    + [Теоретический материал](../subjects/hist/hist-att-1/hist-att-1-theory.md)
-    + [Фактические варианты](../subjects/hist/hist-att-1/hist-att-1-fact.md)
-    + [Воспоминания очевидцев](../subjects/hist/hist-att-1/hist-att-1-memories.md)
+    + [Теоретический материал](../subjects/1-sem/hist/hist-att-1/hist-att-1-theory.md)
+    + [Фактические варианты](../subjects/1-sem/hist/hist-att-1/hist-att-1-fact.md)
+    + [Воспоминания очевидцев](../subjects/1-sem/hist/hist-att-1/hist-att-1-memories.md)
 
 
 + Аттестация №2
-  + [Воспоминания очевидцев](../subjects/hist/hist-att-2-memories.md)
+  + [Воспоминания очевидцев](../subjects/1-sem/hist/hist-att-2-memories.md)
 
 
 + Экзамен
-    + [Все билеты кратко](../subjects/hist/hist-exam.md)
+    + [Все билеты кратко](../subjects/1-sem/hist/hist-exam.md)
 
 [к оглавлению](#Экзамены)
 ***
 ### Математический анализ
 + Аттестация №1 (практика)
-    + [Фактические варианты](../subjects/mathan/mathan-mkn/mathan-pr-att-1-fact.md)
+    + [Фактические варианты](../subjects/1-sem/mathan/mathan-mkn/mathan-pr-att-1-fact.md)
 
 
 + Аттестация №2 (практика)
-  + [Фактические варианты](../subjects/mathan/mathan-mkn/mathan-pr-att-2-fact.md)
+  + [Фактические варианты](../subjects/1-sem/mathan/mathan-mkn/mathan-pr-att-2-fact.md)
 
 
 + Аттестация №3 (практика)
-  + [Фактические варианты](../subjects/mathan/mathan-mkn/mathan-pr-att-3-fact.md)
+  + [Фактические варианты](../subjects/1-sem/mathan/mathan-mkn/mathan-pr-att-3-fact.md)
 
 
 + Экзамен:
@@ -53,11 +53,11 @@
 ### Линейная алгебра
 (преп. Вахитова)
 + Аттестация №1
-  + [Фактические варианты](../subjects/lin-alg/lin-alg-pr-att-1-fact.md)
+  + [Фактические варианты](../subjects/1-sem/lin-alg/lin-alg-pr-att-1-fact.md)
 
 
 + Аттестация №2
-  + [Фактические варианты](../subjects/lin-alg/lin-alg-pr-att-2-fact.md)
+  + [Фактические варианты](../subjects/1-sem/lin-alg/lin-alg-pr-att-2-fact.md)
 
 
 + Аттестация №3
@@ -72,11 +72,11 @@
 ### Дискретная математика
 (преп. Каверина(практика))
 + Аттестация №1 
-    + [Фактические варианты](../subjects/dm/dm-mkn/dm-pr-att-1-fact.md)
+    + [Фактические варианты](../subjects/1-sem/dm/dm-mkn/dm-pr-att-1-fact.md)
 
 
 + Аттестация №2
-  + [Фактические варианты](../subjects/dm/dm-mkn/dm-pr-att-2-fact.md)
+  + [Фактические варианты](../subjects/1-sem/dm/dm-mkn/dm-pr-att-2-fact.md)
 
 
 + Аттестация №3 
@@ -92,15 +92,15 @@
 ### Введение в программирование
 (преп. Соломатин(лекции))
 + Аттестация №1
-    + [Фактические варианты](../subjects/enter-prog/enter-prog-att-1-fact.md)
+    + [Фактические варианты](../subjects/1-sem/enter-prog/enter-prog-att-1-fact.md)
 
 
 + Аттестация №2-3
-  + [Фактические варианты](../subjects/enter-prog/enter-prog-att-2-3-fact.md)
+  + [Фактические варианты](../subjects/1-sem/enter-prog/enter-prog-att-2-3-fact.md)
 
 
 + Экзамен:
-  + [Фактические варианты](../subjects/enter-prog/enter-prog-exam.md)
+  + [Фактические варианты](../subjects/1-sem/enter-prog/enter-prog-exam.md)
   
 
 [к оглавлению](#Экзамены)
