@@ -1,4 +1,4 @@
-[назад](../../../../isit/isit-1-1.md#Математический-анализ)
+[назад](../../../../README.md)
 ***
 
 ## Вариант 2: 
@@ -23,7 +23,7 @@
 
 
 7. Используя определение предела числовой последовательности, доказать, что
-![матан вариант 2 задание 7](../../../../images/1-sem/mathan/theory/att1/math-isit-th1/2.jpg)
+![матан вариант 2 задание 7](../../../../images/1-sem/mathan/theory/att1/sirota/2.jpg)
 
 
 ## Вариант 1:
@@ -50,12 +50,12 @@
 7. Используя определение предела числовой последовательности, доказать, что число
 1 является пределом последовательности
 
-![матан вариант 1 задание 7](../../../../images/1-sem/mathan/theory/att1/math-isit-th1/1.1.jpg)
+![матан вариант 1 задание 7](../../../../images/1-sem/mathan/theory/att1/sirota/1.1.jpg)
 
-![матан вариант 3.1](../../../../images/1-sem/mathan/theory/att1/math-isit-th1/3.1.jpg)
+![матан вариант 3.1](../../../../images/1-sem/mathan/theory/att1/sirota/3.1.jpg)
 
-![матан вариант 3.2](../../../../images/1-sem/mathan/theory/att1/math-isit-th1/3.2.jpg)
+![матан вариант 3.2](../../../../images/1-sem/mathan/theory/att1/sirota/3.2.jpg)
 
-![матан вариант 4.1](../../../../images/1-sem/mathan/theory/att1/math-isit-th1/4.1.jpg)
+![матан вариант 4.1](../../../../images/1-sem/mathan/theory/att1/sirota/4.1.jpg)
 
-![матан вариант 4.2](../../../../images/1-sem/mathan/theory/att1/math-isit-th1/4.2.jpg)
+![матан вариант 4.2](../../../../images/1-sem/mathan/theory/att1/sirota/4.2.jpg)
