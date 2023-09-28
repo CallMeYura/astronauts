@@ -45,7 +45,7 @@
 
 #### Сирота (лекции):
 + Аттестация №1
-  + [Фактические варианты](../subjects/1-sem/mathan/mathan-isit/mathan-th-att-1-fact.md)
+  + [Фактические варианты](../subjects/1-sem/mathan/th-sirota/mathan-th-att-1-fact.md)
 
 + Аттестация №2
   + Фактические варианты
