@@ -30,14 +30,20 @@
   + [Фактические варианты](../subjects/1-sem/mathan/mathan-isit/mathan-pr-churakova-att-1-fact.md)
 
 + Аттестация №2
-  + Фактические варианты
+  + [Фактические варианты](../subjects/1-sem/mathan/mathan-isit/mathan-pr-att-2-fact.md)
 
 + Аттестация №3
-  + Фактические варианты
+  + [Фактические варианты](../subjects/1-sem/mathan/mathan-isit/mathan-pr-att-3-fact.md)
 
 #### Некрасова (практика):
 + Аттестация №1
   + [Фактические варианты](../subjects/1-sem/mathan/mathan-isit/mathan-pr-nekrasova-att1-fact.md)
+
++ Аттестация №2
+  + [Фактические варианты](../subjects/1-sem/mathan/mathan-isit/mathan-pr-att-2-fact.md)
+
++ Аттестация №3
+  + [Фактические варианты](../subjects/1-sem/mathan/mathan-isit/mathan-pr-att-3-fact.md)
 
 #### Некипелов (практика):
 + Нет информации, требуется дополнение раздела
@@ -47,7 +53,7 @@
   + [Фактические варианты](../subjects/1-sem/mathan/th-sirota/mathan-th-att-1-fact.md)
 
 + Аттестация №2
-  + Фактические варианты
+  + [Фактические варианты](../subjects/1-sem/mathan/th-sirota/mathan-th-att-2-fact.md)
 
 #### Экзамен:
 + Нет информации, требуется дополнение раздела
@@ -63,7 +69,7 @@
   + [Фактические варианты](../subjects/1-sem/enter-prog/enter-prog-att-1-fact.md)
 
 + Аттестация №2
-  + Фактические варианты
+  + [Фактические варианты](../subjects/1-sem/enter-prog/enter-prog-att-2-3-fact.md)
 
 #### Экзамен:
 + Фактические варианты
@@ -85,9 +91,21 @@
 + Аттестация №1
   + [Фактические варианты](../subjects/1-sem/toinf/pr-samodurov/toinf-pr-att-1-fact.md)
 
++ Аттестация №2
+  + [Фактические варианты](../subjects/1-sem/toinf/pr-samodurov/toinf-pr-att-2-fact.md)
+
++ Аттестация №3
+  + [Фактические варианты](../subjects/1-sem/toinf/pr-samodurov/toinf-pr-att-3-fact.md)
+
 #### Сычев (лекции):
 + Аттестация №1
   + [Фактические варианты](../subjects/1-sem/toinf/toinf-th-att-1-fact.md)
+
++ Аттестация №2
+  + [Фактические варианты](../subjects/1-sem/toinf/toinf-th-att-2-fact.md)
+
++ Аттестация №3
+  + [Фактические варианты](../subjects/1-sem/toinf/toinf-th-att-3-fact.md)
 
 #### Экзамен:
 + Нет информации, требуется дополнение раздела
@@ -105,7 +123,7 @@
   + [Воспоминания очевидцев](../subjects/1-sem/hist/hist-att-1/hist-att-1-memories.md)
 
 + Аттестация №2
-  + Воспоминания очевидцев
+  + [Воспоминания очевидцев](../subjects/1-sem/hist/hist-att-2-memories.md)
 
 #### Зачет:
 + Все билеты кратко
@@ -132,10 +150,10 @@
   + [Фактические варианты](../subjects/1-sem/economy/economy-att-1-fact.md)
 
 + Аттестация №2
-  + Фактические варианты
+  + [Фактические варианты](../subjects/1-sem/economy/economy-att-2-fact.md)
 
 + Аттестация №3
-  + Фактические варианты
+  + [Фактические варианты](../subjects/1-sem/economy/economy-att-3-fact.md)
 
 #### Зачет:
 + Нет информации, требуется дополнение раздела
@@ -160,10 +178,10 @@
   + [Фактические варианты](../subjects/1-sem/russian/russian-att-1-fact.md)
 
 + Аттестация №2
-  + Фактические варианты
+  + [Фактические варианты](../subjects/1-sem/russian/russian-att-2-fact.md)
 
 + Аттестация №3
-  + Фактические варианты
+  + [Фактические варианты](../subjects/1-sem/russian/russian-att-3-fact.md)
 
 #### Зачет:
 + Фактические варианты
