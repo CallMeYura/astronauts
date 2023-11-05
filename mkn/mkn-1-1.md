@@ -102,7 +102,7 @@
   + [Фактические варианты](../subjects/1-sem/enter-prog/enter-prog-att-1-fact.md)
 
 + Аттестация №2
-  + Фактические варианты](../subjects/1-sem/enter-prog/enter-prog-att-2-fact.md)
+  + [Фактические варианты](../subjects/1-sem/enter-prog/enter-prog-att-2-3-fact.md)
 
 #### Экзамен:
 + Фактические варианты
