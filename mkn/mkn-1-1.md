@@ -89,7 +89,7 @@
   + [Воспоминания очевидцев](../subjects/1-sem/hist/hist-att-2-memories.md)
 
 #### Зачет:
-+ Все билеты кратко
++ [Все билеты кратко](../subjects/1-sem/hist/hist-exam.md)
 
 [к оглавлению](#Экзамены)
 
@@ -105,7 +105,7 @@
   + [Фактические варианты](../subjects/1-sem/enter-prog/enter-prog-att-2-3-fact.md)
 
 #### Экзамен:
-+ Фактические варианты
++ [Фактические варианты](../subjects/1-sem/enter-prog/enter-prog-exam.md)
 
 [к оглавлению](#Экзамены)
 
